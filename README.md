@@ -1,28 +1,129 @@
 ![Background](https://github.com/RaviSingh733/RaviSingh733/blob/main/github-header-image.png)
 
-
 <h1 align="center">Hi 👋, I'm Ravi Singh</h1>
-<h3 align="center">A Passionate Frontend Developer From India ❤️</h3>
-<img align="Right" alt="Png" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisingh733&label=Profile%20views&color=0e75b6&style=flat" alt="ravisingh733" /> </p>
+<h3 align="center">
+  🚀 Full Stack Developer | React.js • Node.js • MongoDB
+</h3>
 
-<p align="left"> <a href="https://twitter.com/legendravi733" target="blank"><img src="https://img.shields.io/twitter/follow/legendravi733?logo=twitter&style=for-the-badge" alt="legendravi733" /></a> </p>
-
-- ⚡ Fun fact **I am Funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/legendravi733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="legendravi733" height="30" width="40" /></a>
-<a href="https://instagram.com/legendravi733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="legendravi733" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravisingh__007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravisingh007" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Apps;Open+to+Work+%26+Freelance+🚀" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://ravisingh07.com/">🌐 Portfolio</a> •
+  <a href="https://powerfits.netlify.app/">🏋️ PowerFit</a> •
+  <a href="https://royalspices.netlify.app/">🍽️ Restaurant</a> •
+  <a href="https://www.linkedin.com/in/ravi-singh007">💼 LinkedIn</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisingh733&show_icons=true&locale=en&layout=compact" alt="ravisingh733" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravisingh733&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisingh733&show_icons=true&locale=en" alt="ravisingh733" /></p>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravisingh733&" alt="ravisingh733" /></p>
+---
+
+## 👨‍💻 About Me
+
+I’m a Full Stack Developer passionate about building fast, scalable, and user-friendly web applications.
+
+Currently working at **Nethues Technologies Pvt. Ltd.**, I build real-world projects using React, Node.js, and MongoDB.
+
+💡 I love turning ideas into powerful digital products.
+
+---
+
+## 💻 What I Do
+
+- ⚡ Build modern & responsive web apps  
+- 🔧 Develop backend APIs  
+- 🌐 Create full-stack applications  
+- 🎨 Focus on UI/UX & performance  
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,cpp,c" />
+</p>
+
+---
+
+## 🌐 Featured Projects
+
+### 🏋️ PowerFit Gym Website  
+👉 https://powerfits.netlify.app/
+
+### 🍽️ Royal Spice Restaurant  
+👉 https://royalspices.netlify.app/
+
+### 🌐 Personal Portfolio  
+👉 https://ravisingh07.com/
+
+---
+
+## 💼 Experience
+
+### 🏢 Nethues Technologies Pvt. Ltd.
+
+- Developed React-based applications  
+- Built APIs with Node.js & Express  
+- Improved UI/UX and performance  
+- Worked on full stack projects  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ravisingh733&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisingh733&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ravisingh733&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/RaviSingh733/RaviSingh733/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ravi-singh007">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://instagram.com/legendravi733">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+<a href="https://twitter.com/legendravi733">
+<img src="https://img.shields.io/twitter/follow/legendravi733?style=for-the-badge&logo=twitter" />
+</a>
+<a href="https://www.leetcode.com/ravisingh__007">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+</p>
+
+---
+
+## 💬 Quote
+
+> “First, solve the problem. Then, write the code.”
+
+---
+
+<p align="center">
+  ⭐ If you like my work, don't forget to star my repositories!
+</p>
