@@ -7,9 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Apps;Open+to+Work+%26+Freelance+🚀" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Apps;Open+to+Work+%26+Freelance+🚀" />
 </p>
 
 <p align="center">
@@ -91,10 +89,14 @@ Currently working at **Nethues Technologies Pvt. Ltd.**, I build real-world proj
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/RaviSingh733/RaviSingh733/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RaviSingh733/RaviSingh733/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RaviSingh733/RaviSingh733/blob/output/github-snake-light.svg" />
+    <img alt="github contribution snake" src="https://github.com/RaviSingh733/RaviSingh733/blob/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
