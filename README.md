@@ -1,5 +1,6 @@
-![Background](https://github.com/RaviSingh733/RaviSingh733/blob/main/github-header-image.png)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ravi%20Singh&fontAlign=50&fontAlignY=35&fontSize=45&desc=Full%20Stack%20Developer%20🚀&descAlign=50&descAlignY=60&animation=fadeIn" />
+</p>
 <h1 align="center">Hi 👋, I'm Ravi Singh</h1>
 
 <h3 align="center">
